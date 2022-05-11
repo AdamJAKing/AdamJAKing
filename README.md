@@ -7,7 +7,7 @@
 
 #### 🖥️ See my website at [Aking.dev](http://aking.dev)
 
-#### 🤝 I'm open to collaborating on Open source projects in Laravel & Spring Boot
+#### 🤝 I'm open to collaborating on open source projects in Laravel & Spring Boot
 
 ---
 
