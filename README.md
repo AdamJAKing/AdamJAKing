@@ -1,11 +1,12 @@
-<h1 align="center">
-  <p>Hi 👋 I'm Adam King</p>
-  <p1 align="center">Senior Software Engineer</p1>
-</h1>
+
+<div align="center">
+    <img width="790"src="https://user-images.githubusercontent.com/6437643/167922634-222227cf-defe-46d4-82e6-5f4ec67055fa.gif">
+</div>
 
 <h3 align="center"> I have a keen interest in clean code, clean architecture and teaching others how to improve their code </h3>
 
 🖥️  See my website at [Aking.dev](http://aking.dev)
+
 
 🤝  I'm open to collaborating on Open source projects in Laravel & Spring Boot
 
@@ -13,6 +14,7 @@
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="72 height="72" alt="Java" /></a>
+
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="72" height="72" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="72" height="72" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="72" height="72" alt="HTML5" /></a>
