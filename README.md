@@ -5,10 +5,11 @@
 
 <h3 align="center"> I have a keen interest in clean code, clean architecture and teaching others how to improve their code </h3>
 
-🖥️  See my website at [Aking.dev](http://aking.dev)
+#### 🖥️ See my website at [Aking.dev](http://aking.dev)
 
+#### 🤝 I'm open to collaborating on Open source projects in Laravel & Spring Boot
 
-🤝  I'm open to collaborating on Open source projects in Laravel & Spring Boot
+---
 
 ### Skills
 
@@ -22,7 +23,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="72" height="72" alt="MySQL" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="72" height="72" alt="Lavarel" /></a>
 </p>
-
+    
 
 ### Socials
 
