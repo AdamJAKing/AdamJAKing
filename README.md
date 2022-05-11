@@ -1,13 +1,13 @@
-Hi 👋 My name is Adam King
-==========================
+<h1 align="center">
+  <p>Hi 👋 I'm Adam King</p>
+  <p1 align="center">Senior Software Engineer</p1>
+</h1>
 
-Senior Software Engineer
--------------------------
+<h3 align="center"> I have a keen interest in clean code, clean architecture and teaching others how to improve their code </h3>
 
-I have a keen interest in clean code, clean architecture and teaching others how to improve their code
+🖥️  See my website at [Aking.dev](http://aking.dev)
 
-* 🖥️  See my portfolio at [Aking.dev](http://aking.dev)
-* 🤝  I'm open to collaborating on Open source projects in Laravel & Spring Boot
+🤝  I'm open to collaborating on Open source projects in Laravel & Spring Boot
 
 ### Skills
 
