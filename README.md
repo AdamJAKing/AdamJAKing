@@ -5,11 +5,17 @@
 
 
 
-<h3 align="center"> I have a keen interest in clean code, clean architecture and teaching others how to improve their code </h3>
+<h3 align="center">I have a keen interest in clean code, clean architecture and teaching others how to improve their code</h3>
 
-#### 🖥️ See my website at [Aking.dev](http://aking.dev)
+### 🖥️ See my website at [Aking.dev](http://aking.dev)
 
-#### 🤝 I'm open to collaborating on open source projects in Laravel & Spring Boot
+### 🤝 I'm open to collaborating on open source projects in Laravel & Spring Boot
+
+<div>
+
+<a href="http://www.github.com/adamjaking"><img src="https://github-readme-stats.vercel.app/api?username=adamjaking&show_icons=true&hide=&count_private=true&title_color=7AEF70&text_color=ffffff&icon_color=7AEF70&bg_color=1c1917&hide_border=true&show_icons=true" alt="adamjaking's GitHub stats" /></a>
+
+</div>
 
 ---
 
