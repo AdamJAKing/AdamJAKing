@@ -1,7 +1,8 @@
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/6437643/168473169-ed84b9a6-8948-409b-80dc-89f473e5db33.gif">
+    <img src="https://user-images.githubusercontent.com/6437643/168473968-ad3b7652-6355-44a5-9649-c757640551dd.gif">
 </div>
+
 
 <h3 align="center"> I have a keen interest in clean code, clean architecture and teaching others how to improve their code </h3>
 
