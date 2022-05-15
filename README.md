@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img width="580"src="https://user-images.githubusercontent.com/6437643/167922634-222227cf-defe-46d4-82e6-5f4ec67055fa.gif">
+    <img src="https://user-images.githubusercontent.com/6437643/168473169-ed84b9a6-8948-409b-80dc-89f473e5db33.gif">
 </div>
 
 <h3 align="center"> I have a keen interest in clean code, clean architecture and teaching others how to improve their code </h3>
